@@ -25,12 +25,11 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot/advice-desktop.png)
-![](./screenshot/advice-mobile.png)
 
 ### Links
 
 - Solution URL: [solution URL](https://github.com/luwa-star/advice-generator-app.git)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://advice-generator-ae32l1l7t-luwa-star.vercel.app/)
 
 ## My process
 
